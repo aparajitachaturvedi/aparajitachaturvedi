@@ -1,5 +1,5 @@
 ### Hola , I'm Aparajita! 👋
-Welcome to my GitHub Profile
+
 
 - 🔭 I’m currently working on Backend Development.
 - 🌱 I’m currently learning Java.
